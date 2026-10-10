@@ -23,7 +23,6 @@ npm run dev
 
 ## Upload to GitHub
 
-Create an empty repository on GitHub, then run these commands in the project folder:
 
 ```bash
 git init
